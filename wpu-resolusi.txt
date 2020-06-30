@@ -2,3 +2,5 @@ wpu-resolusi
 1.belajar pemgrograman
 2.belajar desain web
 3.belajar framework
+4.belajar vue js
+5.belajar Node js
